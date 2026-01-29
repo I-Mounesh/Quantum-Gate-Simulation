@@ -1,5 +1,6 @@
-streamlit==1.30.0
-cirq
-numpy
-matplotlib
+import streamlit==1.30.0
+import cirq
+import numpy
+import matplotlib
+
 
